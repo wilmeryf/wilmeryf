@@ -7,4 +7,3 @@
 - 🚀 Aprendendo e desenvolvendo projetos em programação  
 - 📚 Sempre buscando evoluir e compartilhar conhecimento
 
-![GitHub License](https://img.shields.io/github/license/wilmeryf/senac-tat?style=for-the-badge)
