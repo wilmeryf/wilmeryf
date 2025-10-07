@@ -7,3 +7,5 @@
 - 🚀 Aprendendo e desenvolvendo projetos em programação  
 - 📚 Sempre buscando evoluir e compartilhar conhecimento
 
+## Teste de integração com o git
+Hello git
