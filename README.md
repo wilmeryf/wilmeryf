@@ -2,6 +2,6 @@
 <h3 align="center">"Explorando o mundo da Informática e da Programação"</h3>
 <hr>
 
-- Estudante de Técnico em Informática  
+- Estudante de Técnico em Informática (Senac) 
 - Aprendendo e desenvolvendo projetos em programação  
 - Sempre buscando evoluir e compartilhar conhecimento
