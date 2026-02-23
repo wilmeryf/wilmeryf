@@ -3,5 +3,5 @@
 <hr>
 
 - Estudante de Técnico em Informática (Senac) 
-- Aprendendo e desenvolvendo projetos em programação  
+- Aprendendo e desenvolvendo projetos na prática  
 - Sempre buscando evoluir e compartilhar conhecimento
