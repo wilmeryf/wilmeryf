@@ -3,14 +3,14 @@
 
 <hr>
 
-- Estudante de Técnico em Informática (Senac) 
-- Aprendendo e desenvolvendo projetos na prática  
-- Sempre buscando evoluir e compartilhar conhecimento
+<h3 align="left">Sobre Mim</h3>
+<ul>
+    <li>Estudante de Técnico em Informática (Senac)</li>
+    <li>Aprendendo e desenvolvendo projetos na prática</li>
+    <li>Sempre buscando evoluir e compartilhar conhecimento</li>
+</ul>
 
-</p>
-<p align="center">
-    <h3 align="left">Minhas Estatísticas do Github:</h3>
+<h3 align="left">Minhas Estatísticas do Github:</h3>
 <a href="https://github.com/wilmeryf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilmeryf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
-</p>
