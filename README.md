@@ -21,3 +21,11 @@
 <h3 align="left">Minhas Redes</h3>
 
 [![LinkedIn Anderson Wilmer](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonwilmer/)
+
+
+<h3 align="center">My GitHub Statistics</h3>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmeryf&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeryf&layout=compact&theme=dark"/>
+</div>
