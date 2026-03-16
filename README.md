@@ -12,8 +12,7 @@
 
 <h3 align="left">Minhas Estatísticas do Github e Linguagens de Programação</h3>
 <a href="https://github.com/wilmeryf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmeryf&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeryf&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmeryf&show_icons=true&theme=dark&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeryf&layout=compact&theme=dark"/>
   
 </a>
 
