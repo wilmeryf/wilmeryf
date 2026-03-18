@@ -10,11 +10,11 @@
     <li>Sempre buscando evoluir e compartilhar conhecimento</li>
 </ul>
 
-<h3 align="left">Minhas Estatísticas do Github e Linguagens</h3>
-<p align="left">
+<h3 align="center">Minhas Estatísticas e Linguagens do Github </h3>
+<p align="center">
 <a href="https://github.com/wilmeryf">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=wilmeryf&show_icons=true&theme=dark&include_all_commits=true"/>
-  
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeryf&layout=compact&theme=dark&include_all_commits=false"/>
 </a>
 </p>
 
