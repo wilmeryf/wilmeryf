@@ -18,11 +18,11 @@
     <li>Redes Locais</li>
 </ul>
 
-<h3>Aperfeiçoando Linguagens de Programação</h3>
+<h3>Aperfeiçoando Linguagens</h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <h3 align="left">Minhas Redes</h3>
 
