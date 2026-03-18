@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://github.com/wilmeryf">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=wilmeryf&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeryf&layout=compact&theme=dark&include_all_commits=false"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeryf&layout=compact&theme=dark&include_all_commits=true&cache_seconds=60"/>
 </a>
 </p>
 
