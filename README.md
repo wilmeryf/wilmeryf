@@ -16,6 +16,7 @@
     <li>Sistemas Operacionais - Windows 10 e 11</li>
     <li>Montagem e Manutenção de Microcomputador</li>
     <li>Redes Locais</li>
+    <li>IoT - Arduino com Ethernet Shield</li>
 </ul>
 
 <h3>Aperfeiçoando Linguagens</h3>
