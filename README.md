@@ -12,14 +12,16 @@
 
 <h3 align="left">Tecnologias</h3>
 <ul>
-    <li>Arduino Uno R3 – circuitos e leitura de sensores</li>
-    <li>Sistemas Operacionais – instalação e configuração básica do Windows 10/11</li>
-    <li>Montagem de Microcomputadores – montagem prática e instalação de drivers</li>
-    <li>Manutenção de Sistemas – backup e clonagem de disco</li>
-    <li>Redes Locais – configuração de IP, DHCP, gateway e compartilhamento em rede</li>
-    <li>Cabeamento de Rede – montagem de cabos de rede</li>
-    <li>Redes Domésticas – configuração de roteador e dispositivos na rede</li>
-    <li>IoT em Rede – integração de Arduino com rede local</li>
+    <li>Arduino Uno R3 - circuitos e leitura de sensores</li>
+    <li>Sistemas Operacionais - instalação e configuração do Windows 10/11</li>
+    <li>Montagem de Microcomputadores - montagem prática e drivers</li>
+    <li>Manutenção de Sistemas - backup e clonagem de disco</li>
+    <li>Redes Locais - IP, DHCP, gateway e compartilhamento</li>
+    <li>Cabeamento de Rede - montagem de cabos de rede</li>
+    <li>Redes Domésticas - configuração de roteador e dispositivos</li>
+    <li>IoT em Rede - integração de Arduino com rede local</li>
+    <li>Redes Avançadas - noções de VLANs</li>
+    <li>Windows Server - AD DS, DHCP e gerenciamento de usuários</li>
 </ul>
 
 <h3>Aperfeiçoando Linguagens</h3>
