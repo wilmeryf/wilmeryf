@@ -12,11 +12,14 @@
 
 <h3 align="left">Tecnologias</h3>
 <ul>
-    <li>Arduino - Uno R3</li>
-    <li>Sistemas Operacionais - Windows 10 e 11</li>
-    <li>Montagem e Manutenção de Microcomputador</li>
-    <li>Redes Locais</li>
-    <li>IoT - Arduino com Ethernet Shield</li>
+    <li>Arduino Uno R3 – circuitos e leitura de sensores</li>
+    <li>Sistemas Operacionais – instalação e configuração básica do Windows 10/11</li>
+    <li>Montagem de Microcomputadores – montagem prática e instalação de drivers</li>
+    <li>Manutenção de Sistemas – backup e clonagem de disco</li>
+    <li>Redes Locais – configuração de IP, DHCP, gateway e compartilhamento em rede</li>
+    <li>Cabeamento de Rede – montagem de cabos de rede</li>
+    <li>Redes Domésticas – configuração de roteador e dispositivos na rede</li>
+    <li>IoT em Rede – integração de Arduino com rede local</li>
 </ul>
 
 <h3>Aperfeiçoando Linguagens</h3>
