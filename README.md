@@ -21,7 +21,7 @@
     <li>Redes Domésticas - configuração de roteador e dispositivos</li>
     <li>IoT em Rede - integração de Arduino com rede local</li>
     <li>Redes Avançadas - noções de VLANs</li>
-    <li>Windows Server - AD DS, DHCP e gerenciamento de usuários</li>
+    <li>Windows Server - AD DS, GPO, servidor de arquivos, DHCP e backup</li>
 </ul>
 
 <h3>Aperfeiçoando Linguagens</h3>
