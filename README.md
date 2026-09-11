@@ -23,6 +23,8 @@
     <li>Redes Avançadas - noções de VLANs</li>
     <li>Windows Server - AD DS, GPO, servidor de arquivos, DHCP e backup</li>
     <li>Linux Debian – firewall, hospedagem web e aplicações Java</li>
+    <li>Banco de Dados - MySQL, tabelas, relacionamentos e consultas SQL</li>
+    <li>JavaScript - fundamentos de programação</li>
 </ul>
 
 <h3>Aperfeiçoando Linguagens</h3>
@@ -31,6 +33,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <h3 align="left">Minhas Redes</h3>
 
